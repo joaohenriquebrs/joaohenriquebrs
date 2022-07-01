@@ -1,4 +1,4 @@
-<h2 align="center">Breno Silva 🔗 Full-Stack</h2>
+<h2 align="center">João Henrique Portela 🔗 Full-Stack</h2>
 
 <p align="center"><h3>ㅤㅤㅤ🚀 Estudante da Universidade Federal de Pernambuco no curso de Ciência da Computação</p>
 
@@ -7,8 +7,8 @@
 
 <h2> CONTATO </h1>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/breno-silva-a868a5213/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:silvabreno462@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jo%C3%A3o-henrique-portela-b9a979210/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jhportela_rio32@hotmail.com)
 
 <h2>LINGUAGENS</h3>
 
@@ -26,21 +26,13 @@
   </p>
   <h3> Front-End </h3>
     <p style="align: left">
-      <img height="37em" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
       <img height="37em" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-      <img height="37em" src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
       <img height="37em" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-  </p>
-  <h3> Devops / Cloud </h3>
-  <p>
-  <img height="37em" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img height="37em" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   </p>
   
   <h2>Banco de Dados </h1>
   <p style="align:left">
      <img height="37em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-     <img height="37em" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   </p>
     <h2> Outros </h1>
     <p style="align:left">
@@ -58,6 +50,6 @@
 <br>
  <h2>⚙ GitHub Analytics<h2>
     <p align="left">
-        <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrenoRev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-        <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrenoRev&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
+        <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaohenriquebrs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+        <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaohenriquebrs&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
     </p>
