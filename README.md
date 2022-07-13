@@ -12,10 +12,8 @@
 
 <h2>LINGUAGENS</h3>
 
-<p style="align:left">
-  <img height="37em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-  <img height="37em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img height="37em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
+<p style="align:left"> 
+  <img height="37em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
   <img height="37em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
   </p>
   
@@ -39,11 +37,6 @@
       <img height="37em" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img height="37em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img height="37em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <br>
-     <img height="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-     <img height="https://img.shields.io/badge/Intel-Core_i5_8h-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-     <img height="37em" src="https://img.shields.io/badge/Intel-Core_i5_8h-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-     <img height="37em" src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
      <br>
     </p>
     
