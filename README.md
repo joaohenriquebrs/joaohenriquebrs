@@ -31,7 +31,7 @@
   
   <h2>Banco de Dados </h1>
   <p style="align:left">
-     <img height="37em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+     <img height="37em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </p>
     <h2> Outros </h1>
     <p style="align:left">
