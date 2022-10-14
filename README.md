@@ -20,13 +20,12 @@
   <h2> Frameworks </h1>
   <h3> Back-End </h3>
   <p style="align: left">
-      <img height="37em" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
       <img height="37em" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   </p>
   <h3> Front-End </h3>
     <p style="align: left">
       <img height="37em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-      <img height="37em" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+      <img height="37em" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
   </p>
   
   <h2>Banco de Dados </h1>
