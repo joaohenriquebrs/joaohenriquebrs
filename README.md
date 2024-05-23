@@ -22,8 +22,8 @@
   <h2> Frameworks </h1>
   <h3> Back-End </h3>
   <p style="align: left">
-      <img height="37em" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
       <img height="37em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+      <img height="37em" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   </p>
   <h3> Front-End </h3>
     <p style="align: left">
